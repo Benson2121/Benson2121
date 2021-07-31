@@ -1,4 +1,4 @@
-Hello! I’m Benson2121 \(＞ω＜) An Freshman Student at University of Toronto!✨
+Hello! I’m Benson2121 \(＞ω＜) An Freshman Student at University of Toronto! ✨
 - 🍃 I currently live in Toronto, Canada and have lived in Beijing, China.
 - 🍀 I speak English(fluent), Chinese(native) and Japanese(understudy).
 - 👀 I’m interested in Data Science, Software Development and Machine Learning.
@@ -14,4 +14,3 @@ Hello! I’m Benson2121 \(＞ω＜) An Freshman Student at University of Toronto
   - C/C++, C#, Java Script
 - 📫 How to reach me:
   - https://www.linkedin.com/in/bingru-li-70b237216/
-
