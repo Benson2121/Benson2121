@@ -5,7 +5,7 @@ Hello! I’m Benson2121 \(＞ω＜) A Freshman Student at University of Toronto!
 - 💞️ About me:
   - Regular professional learner in Computer Science and Mathmatics.
   - Key VisualArts Fans & ACG lover.
-  - HBSc in Data Science Data Science, University of Toronto (2025)
+  - HBSc in Data Science Specialist, University of Toronto (2025)
 - 🌱 I know about:
   - Java, Python, RStudio
   - Photoshop, LaTex
