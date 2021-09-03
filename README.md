@@ -13,5 +13,5 @@ Hello! I’m Benson2121 \(＞ω＜) A Freshman Student at University of Toronto!
   - GPA 4.0 in the University
   - C/C++, C#, Java Script
 - 📫 How to reach me:
-  - https://www.linkedin.com/in/bingru-li-70b237216/
+  - https://www.linkedin.com/in/bingru-benson-li-70b237216/
   - https://www.codewars.com/users/Benson2121
