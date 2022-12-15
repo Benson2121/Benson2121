@@ -1,17 +1,13 @@
 Hello! I’m Benson2121 \(＞ω＜) A Freshman Student at University of Toronto! ✨
 - 🍃 I currently live in Toronto, Canada and have lived in Beijing, China.
-- 🍀 I speak English(fluent), Chinese(native) and Japanese(understudy).
+- 🍀 I speak English(fluent), Chinese(native).
 - 👀 I’m interested in Data Science, Software Development and Machine Learning.
 - 💞️ About me:
   - Regular professional learner in Computer Science and Mathmatics.
-  - Key VisualArts Fans & ACG lover.
-  - HBSc in Data Science Specialist, University of Toronto (2025)
-- 🌱 I know about:
-  - Java, Python, R, MySQL
-  - Photoshop, LaTex, SpreadSheet, Tableau
-- 🌲 To-do list:
+  - HBSc in Data Science & Computer Science Specialist, University of Toronto (2025)
   - GPA 4.0 in the University
-  - C/C++, C#, Java Script
-- 📫 How to reach me:
-  - https://www.linkedin.com/in/bingru-li-70b237216/
-  - https://www.codewars.com/users/Benson2121
+- 🌱 I know about:
+  - Java, Python, R, SQL
+  - Photoshop, LaTex, SpreadSheet
+- 🌲 To-do list:
+  - C/C++, JavaScript
