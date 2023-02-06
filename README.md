@@ -8,7 +8,7 @@ You may want to refer my project - Calendar-Application! This a project I am pro
   - HBSc in Computer Science Specialist (Major), Mathematics Minor!
   - GPA 4.0 in the University
 - 🌱 I know about:
-  - Python, Java, C/C++, SQL, Linux, Git, R
+  - Python, Java, C/C++, SQL, Linux, Git, HTML/CSS, R
   - Photoshop, LaTex, Excel
 - 🌲 To-do list:
   - JavaScript, GoLang
